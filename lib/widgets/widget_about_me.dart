@@ -15,9 +15,11 @@ class AboutMe extends StatelessWidget {
           Text('Tentang Saya'),
           SizedBox(height: 10),
           Text(
-              'Qui qui consectetur minim aliqua voluptate velit aliquip do. Cillum duis irure Lorem Lorem quis non dolor adipisicing eu proident incididunt et do. Est nostrud adipisicing eu sint eiusmod dolore eu.'),
+              'Nama saya Bela Shirvia, lahir pada tanggal 5 Maret 1998 di Asrama Militer 406 Bojong Purbalingga. Saat ini, saya adalah seorang mahasiswa yang sedang aktif mengejar impian pendidikan tinggi. Dalam setiap langkah yang saya ambil, saya selalu berusaha untuk menggali potensi diri dan mengeksplorasi berbagai bidang ilmu yang menarik minat saya.'),
           Text(
-              'Consequat do eu dolor in do et eiusmod dolor cillum ullamco reprehenderit elit irure culpa. Anim eiusmod culpa do ullamco nulla qui veniam eu est. Officia eiusmod ut cillum consequat mollit cupidatat voluptate eiusmod proident mollit.Duis duis veniam id sit esse sint pariatur nulla proident ut sint exercitation. Id voluptate dolore elit eiusmod sunt ad incididunt nostrud nostrud irure ut quis pariatur. Veniam sint exercitation laborum qui laboris anim anim enim ullamco quis fugiat aliquip duis fugiat. Esse commodo nisi nulla id aliquip exercitation incididunt exercitation est reprehenderit duis.'),
+              'Sebagai seorang mahasiswa, saya percaya bahwa pendidikan adalah kunci untuk membuka pintu menuju masa depan yang cerah. Dengan tekad yang kuat dan semangat yang menggebu, saya terus berjuang untuk meraih setiap peluang dan mengatasi setiap tantangan yang muncul di perjalanan pendidikan saya. Nomor kontak saya, 089527067317, selalu siap untuk menjalin kolaborasi dan berbagi pengetahuan dengan sesama.'),
+          Text(
+              'Setiap harinya, saya berusaha untuk menjadi pribadi yang berkontribusi bagi masyarakat dan lingkungan sekitar. Melalui pengalaman dan pembelajaran yang saya dapatkan selama perkuliahan, saya berusaha untuk mengasah keterampilan sosial dan kepemimpinan, serta mempersiapkan diri untuk menjadi bagian dari perubahan positif dalam masyarakat. Dengan semangat dan determinasi, saya yakin bahwa saya dapat mencapai tujuan-tujuan besar yang telah saya tetapkan dalam hidup ini.'),
         ],
       ),
     );
